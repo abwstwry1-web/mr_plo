@@ -1,8 +1,8 @@
 module.exports = {
-    onLoad() {
-        console.log("[MyFirstPlugin] تم تحميل البلوجن بنجاح!");
-    },
-    onUnload() {
-        console.log("[MyFirstPlugin] تم إلغاء تحميل البلوجن!");
-    }
+  onLoad() {
+    console.log("[MyFirstPlugin] Plugin loaded successfully!");
+  },
+  onUnload() {
+    console.log("[MyFirstPlugin] Plugin unloaded.");
+  }
 };

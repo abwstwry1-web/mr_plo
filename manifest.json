@@ -1,12 +1,14 @@
 {
-  "format": 1,
-  "id": "com.abwstwry1.mr_plo",
   "name": "My First Plugin",
-  "description": "بلوجن تجريبي بسيط",
-  "author": "abwstwry1-web",
+  "description": "A simple test plugin",
+  "authors": [
+    {
+      "name": "abwstwry1-web",
+      "id": "1257588661306916956"
+    }
+  ],
+  "main": "index.js",
   "version": "1.0.0",
-  "dist": {
-    "script": "index.js"
-  }
+  "hash": ""
 }
 EOF
