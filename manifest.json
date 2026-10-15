@@ -1,12 +1,11 @@
 {
-  "name": "MyFirstPlugin",
+  "format": 1,
+  "id": "com.abwstwry1.mr_plo",
+  "name": "My First Plugin",
   "description": "بلوجن تجريبي بسيط",
-  "authors": [
-    {
-      "name": "YourName",
-      "id": "123456789012345678"
-    }
-  ],
-  "main": "index.js",
-  "version": "1.0.0"
+  "author": "abwstwry1-web",
+  "version": "1.0.0",
+  "dist": {
+    "script": "index.js"
+  }
 }
