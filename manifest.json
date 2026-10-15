@@ -1,5 +1,5 @@
 {
-  "name": "My First Plugin",
+  "name": "MyFirstPlugin",
   "description": "A simple test plugin",
   "authors": [
     {
@@ -8,7 +8,5 @@
     }
   ],
   "main": "index.js",
-  "version": "1.0.0",
-  "hash": ""
+  "version": "1.0.0"
 }
-EOF
